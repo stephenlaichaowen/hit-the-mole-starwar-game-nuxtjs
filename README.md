@@ -30,7 +30,7 @@ Publish directory: dist
 ```
 
 ## DEMO
-
+[https://hit-the-mole-starwar-game-nuxtjs.netlify.app/](https://hit-the-mole-starwar-game-nuxtjs.netlify.app/)
 
 ## Reference
 [JavaScript Game Tutorial for Beginners - Franks laboratory](https://www.youtube.com/watch?v=RTb8icFiSfk&feature=youtu.be&fbclid=IwAR2ndSUfiHQhFZkF5XJS2Oy7BR2O7BFi7Z9Hq9Mzsva-2At9CPEnjmERYXI)
